@@ -1,4 +1,8 @@
-**Self Driving Vehicles Using Deep Reinforcement Learning**
+# Self Driving Vehicles Using Deep Reinforcement Learning #
+
+** Description **
+
+This is the project of my thesis. I've implemented an agent in CARLA Simulator, which is capable of navigating a vehicle safe & fast, using only 2 front cameras. More info about the simulator can be found here: https://carla.org/
 
 ![slide1](https://github.com/kochlisGit/autonomous-vehicles-agent/blob/main/images/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B11.PNG)
 ---
@@ -82,3 +86,8 @@
 ---
 
 # Demonstration #
+
+This directory contains 8 video files (mp4) that demonstrate how the vehicle is moving in the simulator
+https://github.com/kochlisGit/autonomous-vehicles-agent/tree/main/videos
+
+The validation of the vehicle was done in a pre-defined route, that was new to the agent. The results are astonishing!
