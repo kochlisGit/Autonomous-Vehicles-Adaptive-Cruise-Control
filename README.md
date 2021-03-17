@@ -108,9 +108,13 @@ The validation of the vehicle was done in a pre-defined route, that was new to t
 2. RGB Camera with Semantic Segmentation: https://carla.readthedocs.io/en/latest/ref_sensors/#semantic-segmentation-camera
 3. Depth Camera: https://carla.readthedocs.io/en/latest/ref_sensors/#depth-camera
 
-# Information about the algorithms:
+# Algorithms:
 
 * DQN: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 * N-Step DQN: https://arxiv.org/pdf/1901.07510.pdf
 * DDQN: https://arxiv.org/pdf/1509.06461.pdf
 * C51: https://arxiv.org/pdf/1707.06887.pdf
+* Decaying Epsilon Greedy: http://tokic.com/www/tokicm/publikationen/papers/AdaptiveEpsilonGreedyExploration.pdf
+* Convolutional Neural Network CNN: https://iopscience.iop.org/article/10.1088/1742-6596/1004/1/012028/pdf
+* Yogi Optimizer: https://papers.nips.cc/paper/2018/file/90365351ccc7437a1309dc64e4db32a3-Paper.pdf
+* GELU: https://arxiv.org/pdf/1606.08415.pdf
