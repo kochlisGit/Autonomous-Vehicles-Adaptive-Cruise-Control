@@ -118,3 +118,9 @@ The validation of the vehicle was done in a pre-defined route, that was new to t
 * Convolutional Neural Network CNN: https://iopscience.iop.org/article/10.1088/1742-6596/1004/1/012028/pdf
 * Yogi Optimizer: https://papers.nips.cc/paper/2018/file/90365351ccc7437a1309dc64e4db32a3-Paper.pdf
 * GELU: https://arxiv.org/pdf/1606.08415.pdf
+
+# Execution
+
+First, You have to download carla and all the libraries above. Then, download my "code" directory and paste it into "Carla/PythonAPI/". Run "agent/straight_lane_agent_c51_training.py" to start the training.
+
+**IMPORTANT** The simulator window should be open, in order for the training to occur. Check https://carla.readthedocs.io/en/latest/start_introduction/ for more information of how to setup carla.
