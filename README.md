@@ -1,10 +1,4 @@
-# Self Driving Vehicles Using Deep Reinforcement Learning #
-
-**Description**
-
-This is the project of my thesis: I've implementated an Autonomous Vehicle agent that can navigate in urban environments, without colliding with other vehicles. The simulation & training was done in **CARLA** Simulator: https://carla.org/
-
----
+**Self Driving Vehicles Using Deep Reinforcement Learning**
 
 ![slide1](https://github.com/kochlisGit/autonomous-vehicles-agent/blob/main/images/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B11.PNG)
 ---
@@ -87,18 +81,4 @@ This is the project of my thesis: I've implementated an Autonomous Vehicle agent
 ![slide40](https://github.com/kochlisGit/autonomous-vehicles-agent/blob/main/images/%CE%94%CE%B9%CE%B1%CF%86%CE%AC%CE%BD%CE%B5%CE%B9%CE%B140.PNG)
 ---
 
-demo1.mp4
-
-demo2.mp4
-
-demo3.mp4
-
-demo4.mp4
-
-demo5.mp4
-
-demo6.mp4
-
-demo7.mp4
-
-demo8.mp4
+# Demonstration #
