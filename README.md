@@ -1,4 +1,4 @@
-# Self Driving Vehicles Using Deep Reinforcement Learning #
+# Self Driving Vehicles Using Deep Reinforcement Learning
 
 ** Description **
 
@@ -107,3 +107,10 @@ The validation of the vehicle was done in a pre-defined route, that was new to t
 1. Collision Detector: https://carla.readthedocs.io/en/latest/ref_sensors/#collision-detector
 2. RGB Camera with Semantic Segmentation: https://carla.readthedocs.io/en/latest/ref_sensors/#semantic-segmentation-camera
 3. Depth Camera: https://carla.readthedocs.io/en/latest/ref_sensors/#depth-camera
+
+# Information about the algorithms:
+
+* DQN: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+* N-Step DQN: https://arxiv.org/pdf/1901.07510.pdf
+* DDQN: https://arxiv.org/pdf/1509.06461.pdf
+* C51: https://arxiv.org/pdf/1707.06887.pdf
