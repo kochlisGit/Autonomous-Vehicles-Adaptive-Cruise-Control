@@ -124,3 +124,13 @@ The validation of the vehicle was done in a pre-defined route, that was new to t
 First, You have to download carla and all the libraries above. Then, download my "code" directory and paste it into "Carla/PythonAPI/". Run "agent/straight_lane_agent_c51_training.py" to start the training.
 
 **IMPORTANT** The simulator window should be open, in order for the training to occur. Check https://carla.readthedocs.io/en/latest/start_introduction/ for more information of how to setup carla.
+
+# Libraries
+1. Python 3.7
+1. Carla <= 0.12
+1. Numpy >= 1.15
+1. Matplotlib
+1. Tensorflow >= 2.0
+1. TF-Agents >= 0.13
+1. Tensorflow-Addons >= 0.13
+1 Opencv >= 4.0
