@@ -1,3 +1,7 @@
+# New version of Adaptive-Cruise Controller using DRL: 
+
+https://github.com/kochlisGit/Noise-Adaptive-Driving-Assistance-System
+
 # Self Driving Vehicles Using Deep Reinforcement Learning
 
 ** Description **
